@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    "start": "open index.html",
     "compile:sass": "sass --watch scss:assets/css"
   },
   "author": "Neil Bui",
